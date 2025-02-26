@@ -79,8 +79,3 @@ This project is a Client-Server Chat Application implemented in Java. It support
     ```sh
     java -cp bin client.cli.ChatCli
     ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
